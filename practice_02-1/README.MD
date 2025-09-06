@@ -1,12 +1,12 @@
 ## Задача 1
 Описание:
-![[task1.png]]
+![](assets/task1.png)
 ## Задача 2
 Описание:
-![[task2.png]]
+![](assets/task2.png)
 ## Задача 4
 Описание:
-![[task4.png]]
+![](assets/task4.png)
 ## Задача 9
 Описание:
-![[task9.png]]
+![](assets/task9.png)
