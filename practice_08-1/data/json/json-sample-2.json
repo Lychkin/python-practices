@@ -1,0 +1,28 @@
+{
+  "store": "ZephelineShop",
+  "sessions": [
+      {
+          "session_id": 101,
+          "user_id": 601654834,
+          "actions": [
+              "view",
+              "add_to_cart"
+          ]
+      },
+      {
+          "session_id": 102,
+          "user_id": 671898219,
+          "actions": [
+              "view"
+          ]
+      },
+      {
+          "session_id": 103,
+          "user_id": 615492715,
+          "actions": [
+              "view",
+              "purchase"
+          ]
+      }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+      "session": {
+          "id": 11,
+          "user": "Kate St John",
+          "purchases": [
+              "Travel Backpack 45L"
+          ]
+      }
+  },
+  {
+      "session": {
+          "id": 12,
+          "user": "Mark Gale",
+          "purchases": []
+      }
+  }
+]

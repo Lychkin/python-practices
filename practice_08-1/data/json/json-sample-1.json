@@ -1,0 +1,21 @@
+{
+  "sessions": [
+      {
+          "session_id": 1,
+          "user_id": 671874963,
+          "cart": [
+              "Laptop Pro 15",
+              "Laptop Air 13"
+          ],
+          "total": 1999.98
+      },
+      {
+          "session_id": 2,
+          "user_id": 671073524,
+          "cart": [
+              "Gaming Laptop X"
+          ],
+          "total": 1299.99
+      }
+  ]
+}
